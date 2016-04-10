@@ -11,5 +11,6 @@ Usage
 ----
     ./torshammer.py -T -t [target] -r [threads]
     
-#Edits
-Changed tor port from 9050 to 9150
+Edits
+----
+Changed TOR port from 9050 to 9150
